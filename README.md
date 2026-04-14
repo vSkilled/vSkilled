@@ -23,18 +23,6 @@ With over 18 years of experience in enterprise infrastructure, systems administr
 * Enterprise systems administration scripting
 * Custom automation
 
-### 🚀 My Workflow
-
-I believe in cutting-edge technology and meticulous execution. Whether deploying enterprise hardware at an Equinix data center or optimizing my extensive personal home lab, my approach is always structural and detail-oriented:
-* **Architect:** Design scalable, resilient virtualization and network solutions.
-* **Deploy:** Implement with precision in both global-reaching enterprise environments and local server racks.
-* **Maintain:** Ensure maximum uptime and security through rigorous monitoring and proactive management.
-
-### 🔭 Currently Learning
-
-* **Artificial Intelligence:** Actively pursuing the Google AI Professional Certificate to integrate AI capabilities into modern infrastructure workflows.
-* **Hardware Capabilities:** Always pushing the limits of high-performance mobile tech.
-
 ---
 
 *"In mission-critical infrastructure, strict attention to detail isn't just a preference, it's a requirement."*
