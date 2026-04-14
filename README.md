@@ -35,13 +35,6 @@ I believe in cutting-edge technology and meticulous execution. Whether deploying
 * **Artificial Intelligence:** Actively pursuing the Google AI Professional Certificate to integrate AI capabilities into modern infrastructure workflows.
 * **Hardware Capabilities:** Always pushing the limits of high-performance mobile tech.
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0D1117&text_color=FFFFFF&icon_color=58A6FF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0D1117&text_color=FFFFFF" alt="Top Languages" />
-</p>
-
 ---
 
 *"In mission-critical infrastructure, strict attention to detail isn't just a preference, it's a requirement."*
