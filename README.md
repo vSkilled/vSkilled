@@ -56,7 +56,8 @@ With over 18 years of experience in enterprise infrastructure, systems administr
 
 📜 **Scripting & Automation**
 * Enterprise systems administration scripting
-* Custom automation
+* Custom automations
+* Game mods and plugins
 
 ---
 
