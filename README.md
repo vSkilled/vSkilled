@@ -1,64 +1,136 @@
-### Hi there, I'm vSkilled! 👋
+<div align="center">
 
-### ⭐ Server Infrastructure Specialist & Senior Systems Architect
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-compact-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/banner-compact-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="vSkilled, Senior Systems Architect" width="100%">
+</picture>
 
-With over 18 years of experience in enterprise infrastructure, systems administration, and cloud environments, I specialize in delivering robust and scalable solutions. I don't just manage systems, I provide architectural and engineering expertise for complex virtualization and data center engagements. My focus is on leading high-performance technical teams in mission-critical, high-pressure environments where strict attention to detail is paramount.
+<a href="https://www.linkedin.com/in/karlnyen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a> <img src="https://img.shields.io/badge/vExpert-2016--2019-607078?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAzbDkgNS05IDUtOS01eiIvPjxwYXRoIGQ9Ik0zIDEzbDkgNSA5LTUiLz48L3N2Zz4%3D&logoColor=white" alt="VMware vExpert 2016-2019"> <img src="https://img.shields.io/badge/Open_to-Roles_%26_contracts-2EA043?style=for-the-badge" alt="Open to roles and contracts">
 
-### 🛠️ Tech Stack & Tools
+</div>
 
-**☁️ Cloud & Virtualization**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
-  <img src="https://img.shields.io/badge/Nutanix-025091.svg?style=for-the-badge&logo=nutanix&logoColor=white" alt="Nutanix" />
-  <img src="https://img.shields.io/badge/Hyper--V-0054A6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Hyper-V" />
-  <img src="https://img.shields.io/badge/DigitalOcean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
-  <img src="https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white" alt="Linode" />
-</p>
+### About me
 
-**💻 Operating Systems**
-<p align="left">
-  <img src="https://img.shields.io/badge/Windows%20Server-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat" />
-  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-</p>
+I'm a senior systems architect with over 18 years in enterprise infrastructure, systems administration and cloud. I design, migrate and run the platforms organizations can't afford to lose: virtualization, data centers, storage, DNS and identity.
 
-**⚙️ DevOps, Automation & Management**
-<p align="left">
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
-</p>
+I lead technical teams through mission-critical change, from architecture and planning to the overnight cutover, and I treat attention to detail as a requirement, not a preference.
 
-**🌐 Web Services & Hosting**
-<p align="left">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/WordPress-%23117FB1.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
-  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google-workspace&logoColor=white" alt="Google Workspace" />
-</p>
+### Core competencies
 
-**🏠 Networking & Home Lab**
-<p align="left">
-  <img src="https://img.shields.io/badge/Ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Ubiquiti" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Unraid-%23F15A24.svg?style=for-the-badge&logo=unraid&logoColor=white" alt="Unraid" />
-  <img src="https://img.shields.io/badge/plex-%23e5a00d.svg?style=for-the-badge&logo=plex&logoColor=white" alt="Plex" />
-  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-</p>
+- **Virtualization & HCI**: Design, upgrade and migrate VMware vSphere and Nutanix AHV estates, from cluster design and lifecycle upgrades to large-scale VM migrations, with Hyper-V and KVM where they fit.
+- **Data center & migrations**: Plan and run multi-site moves and live cutovers around the business, with SAN and NAS storage design and Veeam backup and disaster recovery behind them.
+- **Network services & identity**: Enterprise DNS, DHCP and IPAM on Infoblox, Active Directory and hybrid Entra ID, built for high availability so the basics keep answering.
+- **Automation & building**: PowerShell and PowerCLI for repeatable operations, Python for tooling, and web and hosting platforms built with TypeScript, Astro, Next.js and PHP.
 
-📜 **Scripting & Automation**
-* Enterprise systems administration scripting
-* Custom automations
-* Game mods and plugins
+### How I work
 
----
+- **Rollback first.** Every change ships with a tested way back.
+- **Write it down.** Runbooks, diagrams and decision records that outlive the project.
+- **Automate the second time.** Do it once by hand; script it before the third.
+- **Calm under pressure.** Outages and overnight cutovers get a steady hand and clear communication.
 
-*"In mission-critical infrastructure, strict attention to detail isn't just a preference, it's a requirement."*
+### Toolbox
+
+<table>
+  <tr>
+    <td><b>Virtualization &amp; HCI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/VMware-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAzbDkgNS05IDUtOS01eiIvPjxwYXRoIGQ9Ik0zIDEzbDkgNSA5LTUiLz48L3N2Zz4%3D&logoColor=white" alt="VMware">
+      <img src="https://img.shields.io/badge/Nutanix-21262d?style=flat-square&logo=nutanix&logoColor=white" alt="Nutanix">
+      <img src="https://img.shields.io/badge/Hyper--V-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjMiIHk9IjQiIHdpZHRoPSIxOCIgaGVpZ2h0PSI3IiByeD0iMS41Ii8%2BPHJlY3QgeD0iMyIgeT0iMTMiIHdpZHRoPSIxOCIgaGVpZ2h0PSI3IiByeD0iMS41Ii8%2BPHBhdGggZD0iTTcgNy41aC4wMU03IDE2LjVoLjAxIi8%2BPC9zdmc%2B&logoColor=white" alt="Hyper-V">
+      <img src="https://img.shields.io/badge/KVM-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjYiIHk9IjYiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgcng9IjEuNSIvPjxwYXRoIGQ9Ik05IDJ2NE0xNSAydjRNOSAxOHY0TTE1IDE4djRNMiA5aDRNMiAxNWg0TTE4IDloNE0xOCAxNWg0Ii8%2BPC9zdmc%2B&logoColor=white" alt="KVM">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud &amp; edge</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik03IDE4YTQuNSA0LjUgMCAwIDEtLjYtOC45NkE2IDYgMCAwIDEgMTcuNiA4LjUgNC43NSA0Ljc1IDAgMCAxIDE3LjUgMTh6Ii8%2BPC9zdmc%2B&logoColor=white" alt="AWS">
+      <img src="https://img.shields.io/badge/Azure-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik03IDE4YTQuNSA0LjUgMCAwIDEtLjYtOC45NkE2IDYgMCAwIDEgMTcuNiA4LjUgNC43NSA0Ljc1IDAgMCAxIDE3LjUgMTh6Ii8%2BPC9zdmc%2B&logoColor=white" alt="Azure">
+      <img src="https://img.shields.io/badge/Google_Cloud-21262d?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="Google Cloud">
+      <img src="https://img.shields.io/badge/DigitalOcean-21262d?style=flat-square&logo=digitalocean&logoColor=0080FF" alt="DigitalOcean">
+      <img src="https://img.shields.io/badge/Cloudflare-21262d?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare">
+      <img src="https://img.shields.io/badge/Bunny_CDN-21262d?style=flat-square&logo=bunnydotnet&logoColor=F78F1E" alt="Bunny CDN">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Systems &amp; identity</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Windows_Server-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjMiIHk9IjMiIHdpZHRoPSI4IiBoZWlnaHQ9IjgiLz48cmVjdCB4PSIxMyIgeT0iMyIgd2lkdGg9IjgiIGhlaWdodD0iOCIvPjxyZWN0IHg9IjMiIHk9IjEzIiB3aWR0aD0iOCIgaGVpZ2h0PSI4Ii8%2BPHJlY3QgeD0iMTMiIHk9IjEzIiB3aWR0aD0iOCIgaGVpZ2h0PSI4Ii8%2BPC9zdmc%2B&logoColor=white" alt="Windows Server">
+      <img src="https://img.shields.io/badge/Active_Directory-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjgiIGN5PSIxNSIgcj0iNCIvPjxwYXRoIGQ9Ik0xMSAxMmw5LTlNMTYgN2wzIDMiLz48L3N2Zz4%3D&logoColor=white" alt="Active Directory">
+      <img src="https://img.shields.io/badge/Entra_ID-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjgiIGN5PSIxNSIgcj0iNCIvPjxwYXRoIGQ9Ik0xMSAxMmw5LTlNMTYgN2wzIDMiLz48L3N2Zz4%3D&logoColor=white" alt="Entra ID">
+      <img src="https://img.shields.io/badge/Red_Hat-21262d?style=flat-square&logo=redhat&logoColor=EE0000" alt="Red Hat">
+      <img src="https://img.shields.io/badge/Ubuntu-21262d?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu">
+      <img src="https://img.shields.io/badge/Arch_Linux-21262d?style=flat-square&logo=archlinux&logoColor=1793D1" alt="Arch Linux">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Network, storage &amp; DR</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Infoblox_DDI-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjkiLz48cGF0aCBkPSJNMyAxMmgxOE0xMiAzYTE0IDE0IDAgMCAxIDAgMThNMTIgM2ExNCAxNCAwIDAgMCAwIDE4Ii8%2BPC9zdmc%2B&logoColor=white" alt="Infoblox DDI">
+      <img src="https://img.shields.io/badge/Veeam-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAzbDggM3Y2YzAgNC41LTMuNCA4LjMtOCA5LTQuNi0uNy04LTQuNS04LTlWNnoiLz48cGF0aCBkPSJNOSAxMmwyIDIgNC00Ii8%2BPC9zdmc%2B&logoColor=white" alt="Veeam">
+      <img src="https://img.shields.io/badge/Ubiquiti-21262d?style=flat-square&logo=ubiquiti&logoColor=white" alt="Ubiquiti">
+      <img src="https://img.shields.io/badge/Unraid-21262d?style=flat-square&logo=unraid&logoColor=F15A24" alt="Unraid">
+      <img src="https://img.shields.io/badge/Synology-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjUiIHk9IjMiIHdpZHRoPSIxNCIgaGVpZ2h0PSIxOCIgcng9IjIiLz48cGF0aCBkPSJNOSA3aDZNOSAxMWg2TTkgMTVoLjAxTTEyIDE1aC4wMSIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Synology">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Hosting platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Enhance-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjMiIHk9IjMiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgcng9IjMiLz48cGF0aCBkPSJNOCAxMmg4TTEyIDh2OCIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Enhance">
+      <img src="https://img.shields.io/badge/OpenLiteSpeed-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMyAyTDQgMTRoN2wtMSA4IDktMTJoLTd6Ii8%2BPC9zdmc%2B&logoColor=white" alt="OpenLiteSpeed">
+      <img src="https://img.shields.io/badge/ClientExec-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik02IDJoMTJ2MjBsLTMtMi0zIDItMy0yLTMgMnpNOSA3aDZNOSAxMWg2TTkgMTVoNCIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="ClientExec">
+      <img src="https://img.shields.io/badge/Roundcube-21262d?style=flat-square&logo=roundcube&logoColor=37BEFF" alt="Roundcube">
+      <img src="https://img.shields.io/badge/cPanel-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjMiIHk9IjQiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxNiIgcng9IjIiLz48cGF0aCBkPSJNMyA5aDE4TTggOXYxMSIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="cPanel">
+      <img src="https://img.shields.io/badge/Nginx-21262d?style=flat-square&logo=nginx&logoColor=009639" alt="Nginx">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Automation &amp; code</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PowerShell-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik00IDZsNiA2LTYgNk0xMiAxOWg4Ii8%2BPC9zdmc%2B&logoColor=white" alt="PowerShell">
+      <img src="https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+      <img src="https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+      <img src="https://img.shields.io/badge/PHP-21262d?style=flat-square&logo=php&logoColor=777BB4" alt="PHP">
+      <img src="https://img.shields.io/badge/Astro-21262d?style=flat-square&logo=astro&logoColor=BC52EE" alt="Astro">
+      <img src="https://img.shields.io/badge/Next.js-21262d?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/Tailwind-21262d?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind">
+      <img src="https://img.shields.io/badge/SQLite-21262d?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+      <img src="https://img.shields.io/badge/MariaDB-21262d?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Delivery &amp; AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/GitHub_Actions-21262d?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
+      <img src="https://img.shields.io/badge/Docker-21262d?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
+      <img src="https://img.shields.io/badge/systemd-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjMiLz48cGF0aCBkPSJNMTIgMnYzTTEyIDE5djNNMiAxMmgzTTE5IDEyaDNNNC45IDQuOWwyLjEgMi4xTTE3IDE3bDIuMSAyLjFNNC45IDE5LjFMNyAxN00xNyA3bDIuMS0yLjEiLz48L3N2Zz4%3D&logoColor=white" alt="systemd">
+      <img src="https://img.shields.io/badge/Claude_Code-21262d?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code">
+      <img src="https://img.shields.io/badge/Codex-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik04IDZsLTYgNiA2IDZNMTYgNmw2IDYtNiA2Ii8%2BPC9zdmc%2B&logoColor=white" alt="Codex">
+      <img src="https://img.shields.io/badge/MCP-21262d?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP">
+    </td>
+  </tr>
+</table>
+
+### Certifications
+
+- **VMware vExpert** 2016, 2017, 2018, 2019
+- VMware Certified Associate: Data Center Virtualization (VCA-DCV)
+- VMware Certified Associate: Cloud (VCA-Cloud) and VTSP
+- Microsoft Certified Professional: Windows Server 2016 Installation, Storage and Compute (70-740)
+- Veeam Backup Academy Certified Professional
+- Brocade Accredited Data Center Specialist
+- Tintri Certified Systems Engineer
+- Google AI Professional
+- Diploma of Technical Studies, Information Systems Technology (BCIT)
+
+### Homelab
+
+Off the clock I run a multi-node Unraid and Synology homelab, where new automation, hosting stacks and AI tooling get tested before they reach production.
+
+### Let's work together
+
+Based in British Columbia, Canada. Open to senior roles and contract work, remote or hybrid.
+
+<a href="https://www.linkedin.com/in/karlnyen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
