@@ -11,7 +11,7 @@
 
 </div>
 
-### About me
+### About Me
 
 I'm a senior systems architect with over 18 years in enterprise infrastructure, systems administration and cloud. I design, migrate and run the platforms organizations can't afford to lose: virtualization, data centers, storage, DNS and identity.
 
