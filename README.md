@@ -17,12 +17,12 @@ I'm a senior systems architect with over 18 years in enterprise infrastructure, 
 
 I lead technical teams through mission-critical change, from architecture and planning to the overnight cutover, and I treat attention to detail as a requirement, not a preference.
 
-### Core competencies
+### Core Competencies
 
 - **Virtualization & HCI**: Design, upgrade and migrate VMware vSphere and Nutanix AHV estates, from cluster design and lifecycle upgrades to large-scale VM migrations, with Hyper-V and KVM where they fit.
-- **Data center & migrations**: Plan and run multi-site moves and live cutovers around the business, with SAN and NAS storage design and Veeam backup and disaster recovery behind them.
-- **Network services & identity**: Enterprise DNS, DHCP and IPAM on Infoblox, Active Directory and hybrid Entra ID, built for high availability so the basics keep answering.
-- **Automation & building**: PowerShell and PowerCLI for repeatable operations, Python for tooling, and web and hosting platforms built with TypeScript, Astro, Next.js and PHP.
+- **Data Center & Migrations**: Plan and run multi-site moves and live cutovers around the business, with SAN and NAS storage design and Veeam backup and disaster recovery behind them.
+- **Network Services & Identity**: Enterprise DNS, DHCP and IPAM on Infoblox, Active Directory and hybrid Entra ID, built for high availability so the basics keep answering.
+- **Automation & Building**: PowerShell and PowerCLI for repeatable operations, Python for tooling, and web and hosting platforms built with TypeScript, Astro, Next.js and PHP.
 
 ### How I work
 
@@ -44,7 +44,7 @@ I lead technical teams through mission-critical change, from architecture and pl
     </td>
   </tr>
   <tr>
-    <td><b>Cloud &amp; edge</b></td>
+    <td><b>Cloud &amp; Edge</b></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik03IDE4YTQuNSA0LjUgMCAwIDEtLjYtOC45NkE2IDYgMCAwIDEgMTcuNiA4LjUgNC43NSA0Ljc1IDAgMCAxIDE3LjUgMTh6Ii8%2BPC9zdmc%2B&logoColor=white" alt="AWS">
       <img src="https://img.shields.io/badge/Azure-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik03IDE4YTQuNSA0LjUgMCAwIDEtLjYtOC45NkE2IDYgMCAwIDEgMTcuNiA4LjUgNC43NSA0Ljc1IDAgMCAxIDE3LjUgMTh6Ii8%2BPC9zdmc%2B&logoColor=white" alt="Azure">
@@ -55,7 +55,7 @@ I lead technical teams through mission-critical change, from architecture and pl
     </td>
   </tr>
   <tr>
-    <td><b>Systems &amp; identity</b></td>
+    <td><b>Systems &amp; Identity</b></td>
     <td>
       <img src="https://img.shields.io/badge/Windows_Server-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjMiIHk9IjMiIHdpZHRoPSI4IiBoZWlnaHQ9IjgiLz48cmVjdCB4PSIxMyIgeT0iMyIgd2lkdGg9IjgiIGhlaWdodD0iOCIvPjxyZWN0IHg9IjMiIHk9IjEzIiB3aWR0aD0iOCIgaGVpZ2h0PSI4Ii8%2BPHJlY3QgeD0iMTMiIHk9IjEzIiB3aWR0aD0iOCIgaGVpZ2h0PSI4Ii8%2BPC9zdmc%2B&logoColor=white" alt="Windows Server">
       <img src="https://img.shields.io/badge/Active_Directory-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjgiIGN5PSIxNSIgcj0iNCIvPjxwYXRoIGQ9Ik0xMSAxMmw5LTlNMTYgN2wzIDMiLz48L3N2Zz4%3D&logoColor=white" alt="Active Directory">
@@ -66,7 +66,7 @@ I lead technical teams through mission-critical change, from architecture and pl
     </td>
   </tr>
   <tr>
-    <td><b>Network, storage &amp; DR</b></td>
+    <td><b>Network, Storage &amp; DR</b></td>
     <td>
       <img src="https://img.shields.io/badge/Infoblox_DDI-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjkiLz48cGF0aCBkPSJNMyAxMmgxOE0xMiAzYTE0IDE0IDAgMCAxIDAgMThNMTIgM2ExNCAxNCAwIDAgMCAwIDE4Ii8%2BPC9zdmc%2B&logoColor=white" alt="Infoblox DDI">
       <img src="https://img.shields.io/badge/Veeam-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAzbDggM3Y2YzAgNC41LTMuNCA4LjMtOCA5LTQuNi0uNy04LTQuNS04LTlWNnoiLz48cGF0aCBkPSJNOSAxMmwyIDIgNC00Ii8%2BPC9zdmc%2B&logoColor=white" alt="Veeam">
@@ -76,7 +76,7 @@ I lead technical teams through mission-critical change, from architecture and pl
     </td>
   </tr>
   <tr>
-    <td><b>Hosting platforms</b></td>
+    <td><b>Hosting Platforms</b></td>
     <td>
       <img src="https://img.shields.io/badge/Enhance-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjMiIHk9IjMiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgcng9IjMiLz48cGF0aCBkPSJNOCAxMmg4TTEyIDh2OCIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Enhance">
       <img src="https://img.shields.io/badge/OpenLiteSpeed-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMyAyTDQgMTRoN2wtMSA4IDktMTJoLTd6Ii8%2BPC9zdmc%2B&logoColor=white" alt="OpenLiteSpeed">
@@ -87,7 +87,7 @@ I lead technical teams through mission-critical change, from architecture and pl
     </td>
   </tr>
   <tr>
-    <td><b>Automation &amp; code</b></td>
+    <td><b>Automation &amp; Code</b></td>
     <td>
       <img src="https://img.shields.io/badge/PowerShell-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik00IDZsNiA2LTYgNk0xMiAxOWg4Ii8%2BPC9zdmc%2B&logoColor=white" alt="PowerShell">
       <img src="https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
@@ -127,9 +127,9 @@ I lead technical teams through mission-critical change, from architecture and pl
 
 ### Homelab
 
-Off the clock I run a multi-node Unraid and Synology homelab, where new automation, hosting stacks and AI tooling get tested before they reach production.
+Off the clock I run a full-blown multi-node homelab in a 32U server rack, where new automation, hosting stacks and AI tooling get tested.
 
-### Let's work together
+### Let's Work Together
 
 Based in British Columbia, Canada. Open to senior roles and contract work, remote or hybrid.
 
