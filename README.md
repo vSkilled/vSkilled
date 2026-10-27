@@ -23,6 +23,7 @@ I lead technical teams through mission-critical change, from architecture and pl
 - **Data Center & Migrations**: Plan and run multi-site moves and live cutovers around the business, with SAN and NAS storage design and Veeam backup and disaster recovery behind them.
 - **Network Services & Identity**: Enterprise DNS, DHCP and IPAM on Infoblox, Active Directory and hybrid Entra ID, built for high availability so the basics keep answering.
 - **Automation & Building**: PowerShell and PowerCLI for repeatable operations, Python for tooling, and web and hosting platforms built with TypeScript, Astro, Next.js and PHP.
+- **AI-Assisted Engineering**: Hands-on with Claude Code, OpenAI Codex, Google Gemini and Meta Muse Code, orchestrated as one multi-agent fleet across hosts: routed delegation, shared guardrails and independent review on every change.
 
 ### How I work
 
@@ -107,7 +108,10 @@ I lead technical teams through mission-critical change, from architecture and pl
       <img src="https://img.shields.io/badge/Docker-21262d?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
       <img src="https://img.shields.io/badge/systemd-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjMiLz48cGF0aCBkPSJNMTIgMnYzTTEyIDE5djNNMiAxMmgzTTE5IDEyaDNNNC45IDQuOWwyLjEgMi4xTTE3IDE3bDIuMSAyLjFNNC45IDE5LjFMNyAxN00xNyA3bDIuMS0yLjEiLz48L3N2Zz4%3D&logoColor=white" alt="systemd">
       <img src="https://img.shields.io/badge/Claude_Code-21262d?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code">
-      <img src="https://img.shields.io/badge/Codex-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik04IDZsLTYgNiA2IDZNMTYgNmw2IDYtNiA2Ii8%2BPC9zdmc%2B&logoColor=white" alt="Codex">
+      <img src="https://img.shields.io/badge/OpenAI_Codex-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik04IDZsLTYgNiA2IDZNMTYgNmw2IDYtNiA2Ii8%2BPC9zdmc%2B&logoColor=white" alt="OpenAI Codex">
+      <img src="https://img.shields.io/badge/Google_Gemini-21262d?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Google Gemini">
+      <img src="https://img.shields.io/badge/Meta_Muse_Code-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAzbDIuMiA2LjhMMjEgMTJsLTYuOCAyLjJMMTIgMjFsLTIuMi02LjhMMyAxMmw2LjgtMi4yeiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Meta Muse Code">
+      <img src="https://img.shields.io/badge/Multi--Agent_Orchestration-21262d?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iNSIgcj0iMiIvPjxjaXJjbGUgY3g9IjUiIGN5PSIxOSIgcj0iMiIvPjxjaXJjbGUgY3g9IjE5IiBjeT0iMTkiIHI9IjIiLz48cGF0aCBkPSJNMTIgN3Y1TTEyIDEybC01LjUgNS41TTEyIDEybDUuNSA1LjUiLz48L3N2Zz4%3D&logoColor=white" alt="Multi-Agent Orchestration">
       <img src="https://img.shields.io/badge/MCP-21262d?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP">
     </td>
   </tr>
@@ -127,7 +131,7 @@ I lead technical teams through mission-critical change, from architecture and pl
 
 ### Homelab
 
-Off the clock I run a full-blown multi-node homelab in a 32U server rack, where new automation, hosting stacks and AI tooling get tested.
+Off the clock I run a full-blown multi-node homelab in a 32U server rack, where new automation and hosting stacks get tested before they reach production. It also runs the multi-agent AI fleet that builds and ships [karl.nyen.ca](https://karl.nyen.ca).
 
 ### Let's Work Together
 
